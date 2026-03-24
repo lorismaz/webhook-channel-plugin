@@ -1,0 +1,8 @@
+{
+  "name": "webhook-channel-plugin",
+  "description": "Generic webhook channel plugin for Claude Code. Accept HMAC-authenticated webhooks from any external service with interactive pairing and reply capability.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Loris Mazloum"
+  }
+}
